@@ -124,3 +124,18 @@ textarea {
 .lang {
     background-color: #1F1F1F;
 }
+
+.learn {
+    float: right;
+    text-decoration: none;
+    font-size: 36px;
+    position: relative;
+    top: 150px;
+    color: #292929;
+    font-weight: bold;
+    border: #7CC110 solid 3px;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
